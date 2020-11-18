@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Games/Racing Game/Scenes/race_core.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Games/Racing Game/Scenes/levels/race_level_1.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0

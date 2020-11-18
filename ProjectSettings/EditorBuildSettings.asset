@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/race_mainMenu.unity
+    guid: adde53522626b804faf0502b64df172d
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/blaster_core.unity
+    guid: 24348761385efcf46b8c3aaa86e066b6
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/blaster_menu.unity
+    guid: fae19da8edd52b54fbeab949b2df896e
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/blaster_sceneLoader.unity
+    guid: 9e9a97022a6dcfa479b0459ece3e39de
+  - enabled: 1
+    path: Assets/Games/RunMan/Scenes/runMan_core.unity
+    guid: 0f21fe6b1930ba549bc76a46b1d8712e
+  - enabled: 1
+    path: Assets/Games/RunMan/Scenes/runMan_menu.unity
+    guid: cf773bb92f5810344b0e801072b20c84
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/Levels/blaster_level_1.unity
+    guid: afc6ac02bff110e44ba90cd72b0a284d
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/Levels/blaster_level_2.unity
+    guid: 0c8106ddbcbad2e4aba0e9971e2af25e
+  - enabled: 1
+    path: Assets/Games/Blaster/Scenes/Levels/blaster_level_3.unity
+    guid: 087cd3870273bbb4baa1c3d11872c9b1
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/race_core.unity
+    guid: e2ebccccad7688241ad1fbd070d320a8
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/race_levelSelect.unity
+    guid: fbb3662a0ef578c489d4db8209d13c2e
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/race_sceneLoader.unity
+    guid: a037137d7ec956342815bf0bc86fee96
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/levels/race_level_1.unity
+    guid: 2ccf1cfa970b62d488e2a0d9fa5f790c
+  - enabled: 1
+    path: Assets/Games/Racing Game/Scenes/levels/race_level_2.unity
+    guid: e154c160c03bc5e428925fd721f65e0f
+  m_configObjects: {}
