@@ -1,4 +1,4 @@
-# C# Unity Cookbook Example Files
+# C# Unity Programming Cookbook Example Files
 
 Files to accompany the book C# Game Programming Cookbook for Unity, by Jeff W. Murray and published by CRC Press.
 
