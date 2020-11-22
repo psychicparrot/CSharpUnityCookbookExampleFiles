@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Games/RunMan/Scenes/runMan_core.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
