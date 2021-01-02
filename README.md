@@ -1,4 +1,4 @@
-# C# Unity Programming Cookbook (SECOND EDITION) Example Files
+# C# Game Programming Cookbook for Unity (SECOND EDITION) Example Files
 
 Files to accompany the book C# Game Programming Cookbook for Unity: Second Edition, by Jeff W. Murray and published by CRC Press.
 
