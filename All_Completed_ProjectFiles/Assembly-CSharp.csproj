@@ -59,7 +59,7 @@
     <Compile Include="Assets\GPC_Framework\Scripts\COMMON\UTILITY\RendererExtensions.cs" />
     <Compile Include="Assets\GPC_Framework\Scripts\COMMON\CAMERA\TopDownCamera.cs" />
     <Compile Include="Assets\GPC_Framework\Scripts\COMMON\UI\ScreenAndAudioFader.cs" />
-    <Compile Include="Assets\GPC_Framework\Scripts\COMMON\GAME MANAGEMENT\RacePlayerController.cs" />
+    <Compile Include="Assets\Games\Racing Game\Scripts\RacePlayerController.cs" />
     <Compile Include="Assets\Games\Racing Game\Scripts\FakeWheels.cs" />
     <Compile Include="Assets\GPC_Framework\Scripts\BASE\ENEMY\BaseEnemyWeaponController.cs" />
     <Compile Include="Assets\GPC_Framework\Scripts\BASE\AI &amp; WAYPOINTS\BaseWaypointFollower.cs" />

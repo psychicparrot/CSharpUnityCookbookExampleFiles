@@ -108,7 +108,7 @@ namespace GPC
 				_inputController = GetComponent<BaseInputController>();
 
 			// check that input is not enabled and drop out if it is
-			if (_inputController.inputType != RaceInputController.InputTypes.noInput)
+			if (_inputController.inputType != BaseInputController.InputTypes.noInput)
 				return;
 
 			_inputController.vert = vert;

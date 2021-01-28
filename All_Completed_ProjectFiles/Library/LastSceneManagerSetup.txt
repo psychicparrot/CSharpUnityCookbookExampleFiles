@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Games/RunMan/Scenes/runMan_core.unity
+- path: Assets/Games/Racing Game/Scenes/race_mainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
